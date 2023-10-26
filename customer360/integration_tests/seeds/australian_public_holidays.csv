@@ -1,0 +1,628 @@
+﻿Date,Holiday_Name,State
+20210101,New Year's Day,ACT
+20210126,Australia Day,ACT
+20210308,Canberra Day,ACT
+20210402,Good Friday,ACT
+20210403,Easter Saturday,ACT
+20210404,Easter Sunday,ACT
+20210405,Easter Monday,ACT
+20210426,Anzac Day,ACT
+20210531,Reconciliation Day,ACT
+20210614,Queen's Birthday,ACT
+20211004,Labour Day,ACT
+20211225,Christmas Day ,ACT
+20211226,Boxing Day,ACT
+20211227,Christmas (additional day),ACT
+20211228,Boxing Day (additional day),ACT
+20210101,New Year's Day,NSW
+20210126,Australia Day,NSW
+20210402,Good Friday,NSW
+20210403,Easter Saturday,NSW
+20210404,Easter Sunday,NSW
+20210405,Easter Monday,NSW
+20210425,Anzac Day,NSW
+20210614,Queen's Birthday,NSW
+20210802,Bank Holiday,NSW
+20211004,Labour Day,NSW
+20211225,Christmas Day ,NSW
+20211226,Boxing Day,NSW
+20211227,Christmas (additional day),NSW
+20211228,Boxing Day (additional day),NSW
+20210101,New Year's Day,NT
+20210126,Australia Day,NT
+20210402,Good Friday,NT
+20210403,Easter Saturday,NT
+20210405,Easter Monday,NT
+20210426,Anzac Day,NT
+20210503,May Day,NT
+20210614,Queen's Birthday,NT
+20210802,Picnic Day,NT
+20211224,Christmas Eve 7pm - Midnight,NT
+20211225,Christmas Day ,NT
+20211226,Boxing Day,NT
+20211227,Christmas (additional day),NT
+20211228,Boxing Day (additional day),NT
+20211231,New Year's Eve 7pm - Midnight,NT
+20210101,New Year's Day,QLD
+20210126,Australia Day,QLD
+20210402,Good Friday,QLD
+20210403,The Day after Good Friday,QLD
+20210404,Easter Sunday,QLD
+20210405,Easter Monday,QLD
+20210426,Anzac Day,QLD
+20210503,Labour Day,QLD
+20211004,Queen's Birthday,QLD
+20211224,Christmas Eve 6pm - Midnight,QLD
+20211225,Christmas Day ,QLD
+20211226,Boxing Day,QLD
+20211227,Christmas (additional day),QLD
+20211228,Boxing Day (additional day),QLD
+20210101,New Year's Day,SA
+20210126,Australia Day,SA
+20210308,Adelaide Cup Day,SA
+20210402,Good Friday,SA
+20210403,Easter Saturday,SA
+20210405,Easter Monday,SA
+20210426,Anzac Day (additional day),SA
+20210614,Queen's Birthday,SA
+20211004,Labour Day,SA
+20211224,Christmas Eve  7pm - Midnight,SA
+20211225,Christmas Day ,SA
+20211226,Boxing Day / Proclamation Day,SA
+20211227,Christmas (additional day),SA
+20211228,Boxing Day / Proclamation Day (additional day),SA
+20211231,New Year's Eve 7pm - Midnight,SA
+20210101,New Year's Day,TAS
+20210126,Australia Day,TAS
+20210308,Eight Hours Day,TAS
+20210402,Good Friday,TAS
+20210405,Easter Monday,TAS
+20210406,Easter Tuesday,TAS
+20210425,Anzac Day,TAS
+20210614,Queen's Birthday,TAS
+20211225,Christmas Day,TAS
+20211226,Boxing Day,TAS
+20211227,Christmas (additional day),TAS
+20211228,Boxing Day (additional day),TAS
+20210101,New Year's Day,VIC
+20210126,Australia Day,VIC
+20210308,Labour Day,VIC
+20210402,Good Friday,VIC
+20210403,Saturday before Easter Sunday,VIC
+20210404,Easter Sunday,VIC
+20210405,Easter Monday,VIC
+20210425,Anzac Day,VIC
+20210614,Queen's Birthday,VIC
+20210924,Friday before AFL Grand Final,VIC
+20211102,Melbourne Cup,VIC
+20211225,Christmas Day,VIC
+20211226,Boxing Day,VIC
+20211227,Christmas (additional day),VIC
+20211228,Boxing Day (additional day),VIC
+20210101,New Year's Day,WA
+20210126,Australia Day,WA
+20210301,Labour Day,WA
+20210402,Good Friday,WA
+20210405,Easter Monday,WA
+20210425,Anzac Day,WA
+20210426,Anzac Day (additional day),WA
+20210607,Western Australia Day,WA
+20210927,Queen's Birthday,WA
+20211225,Christmas Day ,WA
+20211226,Boxing Day,WA
+20211227,Christmas (additional day),WA
+20211228,Boxing Day (additional day),WA
+20220101,New Year's Day,ACT
+20220103,New Year's Day (additional day),ACT
+20220126,Australia Day,ACT
+20220314,Canberra Day,ACT
+20220415,Good Friday,ACT
+20220416,Easter Saturday,ACT
+20220417,Easter Sunday,ACT
+20220418,Easter Monday,ACT
+20220425,Anzac Day,ACT
+20220530,Reconciliation Day,ACT
+20220613,Queen's Birthday,ACT
+20221003,Labour Day,ACT
+20221225,Christmas Day ,ACT
+20221226,Boxing Day,ACT
+20221227,Christmas (additional day),ACT
+20220101,New Year's Day,NSW
+20220103,New Year's Day (additional day),NSW
+20220126,Australia Day,NSW
+20220415,Good Friday,NSW
+20220416,Easter Saturday - the Saturday following Good Friday,NSW
+20220417,Easter Sunday,NSW
+20220418,Easter Monday,NSW
+20220425,Anzac Day,NSW
+20220613,Queen's Birthday,NSW
+20220801,Bank Holiday,NSW
+20221003,Labour Day,NSW
+20221225,Christmas Day ,NSW
+20221226,Boxing Day,NSW
+20221227,Christmas (additional day),NSW
+20220103,New Year's Day,NT
+20220126,Australia Day,NT
+20220415,Good Friday,NT
+20220416,Easter Saturday,NT
+20220418,Easter Monday,NT
+20220425,Anzac Day,NT
+20220502,May Day,NT
+20220613,Queen's Birthday,NT
+20220801,Picnic Day,NT
+20221224,Christmas Eve 7pm - midnight,NT
+20221225,Christmas Day ,NT
+20221226,Boxing Day,NT
+20221227,Christmas (additional day),NT
+20221231,New Year's Eve 7pm - midnight,NT
+20220101,New Year's Day,QLD
+20220103,New Year's Day (additional day),QLD
+20220126,Australia Day,QLD
+20220415,Good Friday,QLD
+20220416,The day after Good Friday,QLD
+20220417,Easter Sunday,QLD
+20220418,Easter Monday,QLD
+20220425,Anzac Day,QLD
+20220502,Labour Day,QLD
+20221003,Queen's Birthday,QLD
+20221224,Christmas Eve 6pm - Midnight,QLD
+20221225,Christmas Day ,QLD
+20221226,Boxing Day,QLD
+20221227,Christmas (additional day),QLD
+20220103,New Year's Day,SA
+20220126,Australia Day,SA
+20220314,Adelaide Cup Day,SA
+20220415,Good Friday,SA
+20220416,Easter Saturday,SA
+20220418,Easter Monday,SA
+20220425,Anzac Day,SA
+20220613,Queen's Birthday / Volunteer's Day,SA
+20221003,Labour Day,SA
+20221224,Christmas Eve 7pm - midnight,SA
+20221225,Christmas Day ,SA
+20221226,Boxing Day / Proclamation Day,SA
+20221227,Christmas (additional day),SA
+20221231,New Year's Eve 7pm  - midnight,SA
+20220103,New Year's Day,TAS
+20220126,Australia Day,TAS
+20220314,Eight Hours Day,TAS
+20220415,Good Friday,TAS
+20220418,Easter Monday,TAS
+20220419,Easter Tuesday,TAS
+20220425,Anzac Day,TAS
+20220613,Queen's Birthday,TAS
+20221225,Christmas Day,TAS
+20221226,Boxing Day,TAS
+20221227,Christmas (additional day),TAS
+20220101,New Year's Day,VIC
+20220103,New Year's Day (additional day),VIC
+20220126,Australia Day,VIC
+20220314,Labour Day,VIC
+20220415,Good Friday,VIC
+20220416,Saturday before Easter Sunday,VIC
+20220417,Easter Sunday,VIC
+20220418,Easter Monday,VIC
+20220425,Anzac Day,VIC
+20220613,Queen's Birthday,VIC
+20221101,Melbourne Cup,VIC
+20221225,Christmas Day,VIC
+20221226,Boxing Day,VIC
+20221227,Christmas (additional day),VIC
+20220101,New Year's Day,WA
+20220103,New Year's Day (additional day),WA
+20220126,Australia Day,WA
+20220307,Labour Day,WA
+20220415,Good Friday,WA
+20220418,Easter Monday,WA
+20220425,Anzac Day,WA
+20220606,Western Australia Day,WA
+20220926,Queen's Birthday,WA
+20221225,Christmas Day ,WA
+20221226,Boxing Day,WA
+20221227,Christmas (additional day),WA
+20230101,New Year's Day,ACT
+20230102,New Year's Day (observed),ACT
+20230126,Australia Day,ACT
+20230313,Canberra Day,ACT
+20230407,Good Friday,ACT
+20230408,Easter Saturday,ACT
+20230409,Easter Sunday,ACT
+20230410,Easter Monday,ACT
+20230425,Anzac Day,ACT
+20230529,Reconciliation Day,ACT
+20230612,Sovereign's Birthday,ACT
+20231002,Labour Day,ACT
+20231225,Christmas Day ,ACT
+20231226,Boxing Day,ACT
+20230101,New Year's Day,NSW
+20230102,New Year's Day (observed),NSW
+20230126,Australia Day,NSW
+20230407,Good Friday,NSW
+20230408,Easter Saturday,NSW
+20230409,Easter Sunday,NSW
+20230410,Easter Monday,NSW
+20230425,Anzac Day,NSW
+20230612,King's Birthday,NSW
+20230807,Bank Holiday,NSW
+20231002,Labour Day,NSW
+20231225,Christmas Day ,NSW
+20231226,Boxing Day,NSW
+20230101,New Year's Day,NT
+20230102,New Year's Day (observed),NT
+20230126,Australia Day,NT
+20230407,Good Friday,NT
+20230408,Easter Saturday,NT
+20230409,Easter Sunday,NT
+20230410,Easter Monday,NT
+20230425,Anzac Day,NT
+20230501,May Day,NT
+20230612,King's Birthday,NT
+20230807,Picnic Day,NT
+20231224,Christmas Eve,NT
+20231225,Christmas Day ,NT
+20231226,Boxing Day,NT
+20231231,New Year's Eve,NT
+20230101,New Year's Day,QLD
+20230102,New Year's Day (observed),QLD
+20230126,Australia Day,QLD
+20230407,Good Friday,QLD
+20230408,Easter Saturday,QLD
+20230409,Easter Sunday,QLD
+20230410,Easter Monday,QLD
+20230425,Anzac Day,QLD
+20230501,Labour Day,QLD
+20230816,Royal Queensland Show (Brisbane only),QLD
+20231002,King’s Birthday,QLD
+20231224,Christmas Eve,QLD
+20231225,Christmas Day ,QLD
+20231226,Boxing Day,QLD
+20230101,New Year's Day,SA
+20230102,New Year's Day (observed),SA
+20230126,Australia Day,SA
+20230313,Adelaide Cup Day,SA
+20230407,Good Friday,SA
+20230408,Easter Saturday,SA
+20230410,Easter Monday,SA
+20230425,Anzac Day,SA
+20230612,King’s Birthday,SA
+20231002,Labour Day,SA
+20231224,Christmas Eve,SA
+20231225,Christmas Day ,SA
+20231226,Boxing Day / Proclamation Day,SA
+20231231,New Year's Eve,SA
+20230101,New Year's Day,TAS
+20230102,New Year's Day (observed),TAS
+20230126,Australia Day,TAS
+20230313,Eight Hours Day,TAS
+20230407,Good Friday,TAS
+20230410,Easter Monday,TAS
+20230411,Easter Tuesday,TAS
+20230425,Anzac Day,TAS
+20230612,King's Birthday,TAS
+20231225,Christmas Day ,TAS
+20231226,Boxing Day,TAS
+20230101,New Year's Day,VIC
+20230102,New Year's Day (observed),VIC
+20230126,Australia Day,VIC
+20230313,Labour Day,VIC
+20230407,Good Friday,VIC
+20230408,Easter Saturday,VIC
+20230409,Easter Sunday,VIC
+20230410,Easter Monday,VIC
+20230425,Anzac Day,VIC
+20230612,King's Birthday,VIC
+20230929,Friday before the AFL Grand Final,VIC
+20231107,Melbourne Cup,VIC
+20231225,Christmas Day ,VIC
+20231226,Boxing Day,VIC
+20230101,New Year's Day,WA
+20230102,New Year's Day (observed),WA
+20230126,Australia Day,WA
+20230306,Labour Day,WA
+20230407,Good Friday,WA
+20230409,Easter Sunday,WA
+20230410,Easter Monday,WA
+20230425,Anzac Day,WA
+20230605,Western Australia Day,WA
+20230925,King's Birthday,WA
+20231225,Christmas Day ,WA
+20231226,Boxing Day,WA
+20240101,New Year's Day,ACT
+20240126,Australia Day,ACT
+20240311,Canberra Day,ACT
+20240329,Good Friday,ACT
+20240330,Easter Saturday - the day after Good Friday,ACT
+20240331,Easter Sunday,ACT
+20240401,Easter Monday,ACT
+20240425,Anzac Day,ACT
+20240527,Reconciliation Day,ACT
+20240610,Sovereign's Birthday,ACT
+20241007,Labour Day,ACT
+20241225,Christmas Day ,ACT
+20241226,Boxing Day,ACT
+20240101,New Year's Day,NSW
+20240126,Australia Day,NSW
+20240329,Good Friday,NSW
+20240330,Easter Saturday,NSW
+20240331,Easter Sunday,NSW
+20240401,Easter Monday,NSW
+20240425,Anzac Day,NSW
+20240610,King's Birthday,NSW
+20240805,Bank Holiday,NSW
+20241007,Labour Day,NSW
+20241225,Christmas Day ,NSW
+20241226,Boxing Day,NSW
+20240101,New Year's Day,NT
+20240126,Australia Day,NT
+20240329,Good Friday,NT
+20240330,Easter Saturday,NT
+20240331,Easter Sunday,NT
+20240401,Easter Monday,NT
+20240425,Anzac Day,NT
+20240506,May Day,NT
+20240610,King's Birthday,NT
+20240805,Picnic Day,NT
+20241224,Christmas Eve,NT
+20241225,Christmas Day ,NT
+20241226,Boxing Day,NT
+20241231,New Year's Eve,NT
+20240101,New Year's Day,QLD
+20240126,Australia Day,QLD
+20240329,Good Friday,QLD
+20240330,Easter Saturday,QLD
+20240331,Easter Sunday,QLD
+20240401,Easter Monday,QLD
+20240425,Anzac Day,QLD
+20240506,Labour Day,QLD
+20240814,Royal Queensland Show (Brisbane only),QLD
+20241007,King’s Birthday,QLD
+20241224,Christmas Eve,QLD
+20241225,Christmas Day ,QLD
+20241226,Boxing Day,QLD
+20240101,New Year's Day,SA
+20240126,Australia Day,SA
+20240311,Adelaide Cup Day (subject to Proclamation),SA
+20240329,Good Friday,SA
+20240330,Easter Saturday,SA
+20240401,Easter Monday,SA
+20240425,Anzac Day,SA
+20240610,King’s Birthday,SA
+20241007,Labour Day,SA
+20241224,Christmas Eve,SA
+20241225,Christmas Day ,SA
+20241226,Boxing Day / Proclamation Day,SA
+20241231,New Year's Eve,SA
+20240101,New Year's Day,TAS
+20240126,Australia Day,TAS
+20240311,Eight Hours Day,TAS
+20240329,Good Friday,TAS
+20240401,Easter Monday,TAS
+20240402,Easter Tuesday,TAS
+20240425,Anzac Day,TAS
+20240610,King's Birthday,TAS
+20241225,Christmas Day ,TAS
+20241226,Boxing Day,TAS
+20240101,New Year's Day,VIC
+20240126,Australia Day,VIC
+20240311,Labour Day,VIC
+20240329,Good Friday,VIC
+20240330,Easter Saturday,VIC
+20240331,Easter Sunday,VIC
+20240401,Easter Monday,VIC
+20240425,Anzac Day,VIC
+20240610,King's Birthday,VIC
+20240927,Friday before the AFL Grand Final,VIC
+20241105,Melbourne Cup,VIC
+20241225,Christmas Day ,VIC
+20241226,Boxing Day,VIC
+20240101,New Year's Day,WA
+20240126,Australia Day,WA
+20240304,Labour Day,WA
+20240329,Good Friday,WA
+20240331,Easter Sunday,WA
+20240401,Easter Monday,WA
+20240425,Anzac Day,WA
+20240603,Western Australia Day,WA
+20240929,King's Birthday,WA
+20241225,Christmas Day ,WA
+20241226,Boxing Day,WA
+20200101,New Year's Day,ACT
+20200127,Australia Day,ACT
+20200309,Canberra Day,ACT
+20200410,Good Friday,ACT
+20200411,Easter Saturday,ACT
+20200412,Easter Sunday,ACT
+20200413,Easter Monday,ACT
+20200425,Anzac Day,ACT
+20200427,Declared Public Holiday,ACT
+20200601,Reconciliation Day,ACT
+20200608,Queen's Birthday,ACT
+20201005,Labour Day,ACT
+20201225,Christmas Day ,ACT
+20201226,Boxing Day,ACT
+20201228,Boxing Day (additional day),ACT
+20200101,New Year's Day,NSW
+20200127,Australia Day,NSW
+20200410,Good Friday,NSW
+20200411,Easter Saturday - the Saturday following Good Friday,NSW
+20200412,Easter Sunday,NSW
+20200413,Easter Monday,NSW
+20200425,Anzac Day,NSW
+20200608,Queen's Birthday,NSW
+20200803,Bank Holiday,NSW
+20201005,Labour Day,NSW
+20201225,Christmas Day ,NSW
+20201226,Boxing Day,NSW
+20201228,Boxing Day (Additional day),NSW
+20200101,New Year's Day,NT
+20200127,Australia Day,NT
+20200410,Good Friday,NT
+20200411,Easter Saturday,NT
+20200413,Easter Monday,NT
+20200425,Anzac Day,NT
+20200504,May Day,NT
+20200608,Queen's Birthday,NT
+20200803,Picnic Day,NT
+20201224,Christmas Eve,NT
+20201225,Christmas Day,NT
+20201228,Boxing Day,NT
+20201231,New Year's Eve,NT
+20200101,New Year's Day,QLD
+20200127,Australia Day,QLD
+20200410,Good Friday,QLD
+20200411,The day after Good Friday,QLD
+20200412,Easter Sunday,QLD
+20200413,Easter Monday,QLD
+20200425,Anzac Day,QLD
+20200504,Labour Day,QLD
+20201005,Queen's Birthday,QLD
+20201224,Christmas Eve,QLD
+20201225,Christmas Day,QLD
+20201226,Boxing Day,QLD
+20201228,Boxing Day (Additional day),QLD
+20200101,New Year's Day,SA
+20200126,Australia Day,SA
+20200127,Australia Day (Additional day),SA
+20200309,Adelaide Cup Day,SA
+20200410,Good Friday,SA
+20200411,Easter Saturday,SA
+20200413,Easter Monday,SA
+20200425,Anzac Day,SA
+20200608,Queen's Birthday/Volunteer's Day,SA
+20201005,Labour Day,SA
+20201224,Christmas Eve,SA
+20201225,Christmas Day,SA
+20201228,Boxing/Proclamation Day ,SA
+20201231,New Year's Eve,SA
+20200101,New Year's Day,TAS
+20200127,Australia Day,TAS
+20200309,Eight Hours Day,TAS
+20200410,Good Friday,TAS
+20200413,Easter Monday,TAS
+20200414,Easter Tuesday,TAS
+20200425,Anzac Day,TAS
+20200608,Queen's Birthday,TAS
+20201225,Christmas Day,TAS
+20201228,Boxing Day,TAS
+20200101,New Year's Day,VIC
+20200127,Australia Day,VIC
+20200309,Labour Day,VIC
+20200410,Good Friday,VIC
+20200411,Saturday before Easter Sunday,VIC
+20200412,Easter Sunday,VIC
+20200413,Easter Monday,VIC
+20200425,Anzac Day,VIC
+20200608,Queen's Birthday,VIC
+20201023,Friday before the AFL grand final,VIC
+20201103,Melbourne cup day,VIC
+20201225,Christmas Day,VIC
+20201226,Boxing Day,VIC
+20201228,Boxing Day (Additional day),VIC
+20200101,New Year's Day,WA
+20200127,Australia Day,WA
+20200302,Labour Day,WA
+20200410,Good Friday,WA
+20200413,Easter Monday,WA
+20200425,Anzac Day,WA
+20200427,Anzac Day,WA
+20200601,Western Australia Day,WA
+20200928,Queen's Birthday,WA
+20201225,Christmas Day,WA
+20201226,Boxing Day,WA
+20201228,Boxing Day (Additional day),WA
+20190101,New Year's Day,ACT
+20190128,Australia Day,ACT
+20190311,Canberra Day,ACT
+20190419,Good Friday,ACT
+20190420,Saturday before Easter Sunday,ACT
+20190421,Easter Sunday,ACT
+20190422,Easter Monday,ACT
+20190425,Anzac Day,ACT
+20190527,Reconciliation Day,ACT
+20190610,Queen's Birthday,ACT
+20191007,Labour Day,ACT
+20191225,Christmas Day ,ACT
+20191226,Boxing Day,ACT
+20190101,New Year's Day,NSW
+20190128,Australia Day,NSW
+20190419,Good Friday,NSW
+20190420,Saturday before Easter Sunday,NSW
+20190421,Easter Sunday,NSW
+20190422,Easter Monday,NSW
+20190425,Anzac Day,NSW
+20190610,Queen's Birthday,NSW
+20190805,Bank Holiday,NSW
+20191007,Labour Day,NSW
+20191225,Christmas Day ,NSW
+20191226,Boxing Day,NSW
+20190101,New Year's Day,NT
+20190128,Australia Day,NT
+20190419,Good Friday,NT
+20190420,Saturday before Easter Sunday,NT
+20190422,Easter Monday,NT
+20190425,Anzac Day,NT
+20190506,May Day,NT
+20190610,Queen's Birthday,NT
+20190805,Picnic Day,NT
+20191224,Christmas Eve,NT
+20191225,Christmas Day,NT
+20191226,Boxing Day,NT
+20191231,New Year's Eve,NT
+20190101,New Year's Day,QLD
+20190128,Australia Day,QLD
+20190419,Good Friday,QLD
+20190420,Saturday before Easter Sunday,QLD
+20190421,Easter Sunday,QLD
+20190422,Easter Monday,QLD
+20190425,Anzac Day,QLD
+20190506,Labour Day,QLD
+20191007,Queen's Birthday,QLD
+20191225,Christmas Day,QLD
+20191226,Boxing Day,QLD
+20190101,New Year's Day,SA
+20190128,Australia Day,SA
+20190311,March public holiday,SA
+20190419,Good Friday,SA
+20190420,Saturday before Easter Sunday,SA
+20190422,Easter Monday,SA
+20190425,Anzac Day,SA
+20190610,Queen's Birthday,SA
+20191007,Labour Day,SA
+20191224,Christmas Eve,SA
+20191225,Christmas Day,SA
+20191226,Proclamation Day ,SA
+20191231,New Year's Eve,SA
+20190101,New Year's Day,TAS
+20190128,Australia Day,TAS
+20190211,Royal Hobart Regatta,TAS
+20190311,Eight Hours Day,TAS
+20190419,Good Friday,TAS
+20190422,Easter Monday,TAS
+20190423,Easter Tuesday,TAS
+20190425,Anzac Day,TAS
+20190610,Queen's Birthday,TAS
+20191225,Christmas Day,TAS
+20191226,Boxing Day,TAS
+20190101,New Year's Day,VIC
+20190128,Australia Day,VIC
+20190311,Labour Day,VIC
+20190419,Good Friday,VIC
+20190420,Saturday before Easter Sunday,VIC
+20190421,Easter Sunday,VIC
+20190422,Easter Monday,VIC
+20190425,Anzac Day,VIC
+20190610,Queen's Birthday,VIC
+20190927,Friday before AFL Grand Final,VIC
+20191105,Melbourne Cup,VIC
+20191225,Christmas Day,VIC
+20191226,Boxing Day,VIC
+20190101,New Year's Day,WA
+20190128,Australia Day,WA
+20190304,Labour Day,WA
+20190419,Good Friday,WA
+20190422,Easter Monday,WA
+20190425,Anzac Day,WA
+20190603,Western Australia Day,WA
+20190930,Queen's Birthday,WA
+20191225,Christmas Day,WA
+20191226,Boxing Day,WA

@@ -1,0 +1,48 @@
+version: 2
+
+sources:
+  - name: stg_tables
+    database: "{{ target.dbname }}"  
+    schema: "{{ target.schema }}"
+    tables:
+      - name: contacts_joined_with_transactions
+    
+models:
+  - name: contacts_joined_with_transactions
+    description: This is an view created for question 8.1
+    config:
+      materialized: incremental
+    columns:
+      - name: transaction_id
+        tests:
+          - not_null
+          - unique
+
+  - name: customers
+    description: This answers question 6 and materialized as table for performance while querying
+    config:
+      materialized: table
+    columns:
+      - name: cutomer_sk
+        tests:
+          - not_null
+          - unique
+      - name: age
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: '< 118'
+            
+  - name: category_summary
+    description: This is an view created for question 3
+    config:
+      materialized: table
+    columns:
+      - name: category_sk
+        tests:
+          - not_null
+          - unique
+
+  - name: state_category_public_holiday
+    description: This is summary tabe on category purchase happened on public holidays
+    config:
+      materialized: table
