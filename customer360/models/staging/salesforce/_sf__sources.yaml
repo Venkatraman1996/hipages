@@ -1,0 +1,33 @@
+models:
+  - name: stg_sf__contacts
+    description: This is an incremental model to load data based on last modified date as high water mark from the contacts seed
+    config:
+      materialized: incremental
+    columns:
+      - name: id
+        tests:
+          - not_null
+          - unique
+
+  - name: australian_public_holidays
+    description: Australian public holiday snapshot table
+    columns:
+      - name: concat("Date","State")
+        tests:
+          - unique
+
+  - name: contacts 
+    description: The contacts seed snapshot
+    config:
+      enabled: true
+    database: "{{ target.dbname }}"  
+    schema: "{{ target.schema }}"
+    columns:
+      - name: id
+        tests:
+          - unique
+          - not_null
+      - name: trim(split_part(UPPER(address),',',-2))
+        tests:
+          - accepted_values:
+              values: ['QLD','VIC','TAS','SA','NA','WA','NT','NSW']

@@ -1,0 +1,44 @@
+version: 2
+
+seeds:
+  - name: contacts
+    config: 
+      database: "{{ target.dbname }}"  
+      schema: "{{ target.schema }}"
+      alias: contacts_seed
+      tags:
+        - customer_data
+      description: contacs information on customer
+      column_types:
+        id: VARCHAR(50)
+        username: VARCHAR(50)
+        name: VARCHAR(50)
+        gender: VARCHAR(50)
+        address: VARCHAR(100)
+        mail: VARCHAR(50)
+        birthdate: DATE
+
+  - name: transactions
+    config:
+      database: "{{ target.dbname }}"  
+      schema: "{{ target.schema }}"
+      alias: transactions_seed
+      description: Contains a record per transaction made by customers
+      tags:
+        - customer_data
+      column_types:
+        contact_id: VARCHAR(50)
+        id: VARCHAR(50)
+        transaction_date: TIMESTAMP
+        amount: NUMERIC(10,2)
+        item_count: NUMERIC(10,0)
+        category: VARCHAR(50)
+
+  - name: australian_public_holidays
+    config:
+      database: "{{ target.dbname }}"  
+      schema: "{{ target.schema }}"
+      alias: australian_public_holidays_seed
+      description: Contains a record per transaction made by customers
+      tags:
+        - customer_data

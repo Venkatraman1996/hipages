@@ -1,0 +1,35 @@
+version: 2
+
+macros:
+  - name: age_in_years
+    description: Get Age by difference given date with current date
+    arguments:
+      - name: date_column
+        type: DATE
+        description: Date of month coulumn
+      - name: tags
+        type: list
+        description: get all the tags for a given model, used to determine which type of datawarehouse is used
+
+  - name: annonymise_cols
+    description: Annonymize the columns, depending on the type of hash_type
+    arguments:
+      - name: item
+        type: dict
+        description: Disctionary with keys hash_type , encoding type, column name and column alias name
+
+  - name: as_timestamp_utc
+    description: Convert column to UTC
+    arguments:
+      - name: column_name
+        type: DATE
+        description: Date to transfer to UTC
+      - name: tags
+        type: list
+        description: get all the tags for a given model, used to determine which type of datawarehouse is used
+
+  - name: test_age_in_years_postgres
+    description: This macro is used as a test for the age_in_years macro for postgres DWH, run using run- operations command
+
+  - name: test_as_timestamp_utc_postgres
+    description: This macro is used as a test for the as_timestamp_utc macro for postgres DWH, run using run- operations command       
